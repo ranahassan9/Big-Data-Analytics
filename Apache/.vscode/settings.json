@@ -1,0 +1,8 @@
+{
+    "python.analysis.extraPaths": [
+        "${workspaceFolder}/web-log-analytics/backend"
+    ],
+    "python.analysis.ignore": [
+        "**/scripts/*.py"
+    ]
+}

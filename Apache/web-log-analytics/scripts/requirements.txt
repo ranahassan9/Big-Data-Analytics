@@ -1,0 +1,5 @@
+# Requirements for data processing scripts
+pyspark==3.5.0
+python-dotenv==1.0.0
+django==4.2.7
+mysqlclient==2.2.0
